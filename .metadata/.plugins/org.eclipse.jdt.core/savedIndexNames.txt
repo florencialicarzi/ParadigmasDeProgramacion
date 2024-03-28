@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Florencia\Documents\Facultad\PLAN2023\3646-ParadigmasDeProgramacion\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4026042033.index
+1993498928.index
