@@ -55,7 +55,7 @@ public class Vector {
 		return this.sumar(vec.opuesto());
 	}
 	
-	public Vector touch()
+	public void touch()
 	{
 		this.x++;
 	}
